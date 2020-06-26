@@ -13,5 +13,5 @@ Using the command line to create a new repository
         git commit -m "first commit"
         git remote add origin https://github.com/Carole-Ouedraogo/Create-a-Remote-GitHub-Repo-Version-From-a-Local-repo.git
         git pull
-        
+        git pull origin master --allow-unrelated-histories
         git push -u origin master
