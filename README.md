@@ -14,3 +14,5 @@ Using the command line to create a new repository
         git remote add origin https://github.com/Carole-Ouedraogo/remote-Repo.git
         git pull origin master --allow-unrelated-histories
         git push -u origin master
+        
+        [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
